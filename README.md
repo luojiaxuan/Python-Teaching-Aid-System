@@ -2,5 +2,27 @@
 
 客户端示例：
 
-![image](https://github.com/luojiaxuan/Python-Teaching-Aid-System/blob/master/theProcess.gif )
+![image](https://github.com/luojiaxuan/Python-Teaching-Aid-System/blob/master/theProcess2.gif )
 
+
+客户端执行流程图：
+
+![image](https://github.com/luojiaxuan/Python-Teaching-Aid-System/blob/master/客户端的执行流程和与服务器的交互.png )
+
+服务端与数据库设计的UML图：
+
+![image](https://github.com/luojiaxuan/Python-Teaching-Aid-System/blob/master/UML.png )
+
+服务端逻辑处理：
+
+![image](https://github.com/luojiaxuan/Python-Teaching-Aid-System/blob/master/Task.png )
+
+数据库部分测试：
+
+![image](https://github.com/luojiaxuan/Python-Teaching-Aid-System/blob/master/Neo4jTest.png )
+
+![image](https://github.com/luojiaxuan/Python-Teaching-Aid-System/blob/master/KnowledgePointTest.png )
+
+部分源代码在idle和T.py中，部分代码未整理完还没上传
+
+论文调研：在论文调研.docx中。

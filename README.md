@@ -2,7 +2,7 @@
 
 客户端示例：
 
-![](theProcess2.gif)
+![image](https://github.com/luojiaxuan/Python-Teaching-Aid-System/blob/master/theProcess2.gif )
 
 
 客户端执行流程图：
